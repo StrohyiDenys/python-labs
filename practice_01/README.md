@@ -31,7 +31,9 @@ To gain practical skills in developing Python programs using conditional stateme
 ---
 
 ## 🧩 Files
+```text
 practice_01/
 ├── task_1.py # Conditional operators and input validation
 ├── task_2.py # Average of squares in range [a, b]
 └── task_3.py # Pyramid pattern with for loop
+```

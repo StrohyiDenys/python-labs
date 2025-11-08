@@ -11,6 +11,7 @@ Each folder represents a separate practical work and includes code examples and 
 python-labs/
 │
 ├── practice_01/ # Programming of branched structures and loop algorithms
+├── practice_02/ # Creation of User Functions and Program Modules
 └── README.md
 ```
 ## 🧑‍💻 Author

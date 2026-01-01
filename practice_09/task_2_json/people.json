@@ -1,0 +1,63 @@
+{
+  "0": {
+    "surname": "Коваленко",
+    "name": "Олександр",
+    "height": 182,
+    "gender": "male"
+  },
+  "2": {
+    "surname": "Бойко",
+    "name": "Іван",
+    "height": 176,
+    "gender": "male"
+  },
+  "3": {
+    "surname": "Мельник",
+    "name": "Олена",
+    "height": 165,
+    "gender": "female"
+  },
+  "4": {
+    "surname": "Бонапарт",
+    "name": "Наполеон І",
+    "height": 169,
+    "gender": "male",
+    "countries_captured": 13
+  },
+  "5": {
+    "surname": "Сидоренко",
+    "name": "Наталія",
+    "height": 170,
+    "gender": "female"
+  },
+  "6": {
+    "surname": "Кравчук",
+    "name": "Андрій",
+    "height": 178,
+    "gender": "male"
+  },
+  "7": {
+    "surname": "Лисенко",
+    "name": "Софія",
+    "height": 160,
+    "gender": "female"
+  },
+  "8": {
+    "surname": "Гриценко",
+    "name": "Павло",
+    "height": 185,
+    "gender": "male"
+  },
+  "9": {
+    "surname": "Романюк",
+    "name": "Катерина",
+    "height": 167,
+    "gender": "female"
+  },
+  "11": {
+    "surname": "Тест",
+    "name": "ТЕСТ",
+    "height": 123,
+    "gender": "male"
+  }
+}

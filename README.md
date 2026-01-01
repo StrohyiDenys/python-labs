@@ -15,8 +15,12 @@ python-labs/
 ├── practice_03/ # String processing in Python
 ├── practice_04/ # Array Processing in Python
 ├── practice_05/ # Working with Dictionaries (Part 1)
+├── practice_07/ # Working with Files (Part 1)
+├── practice_09/ # Working with CSV and JSON
 └── README.md
 ```
 ## 🧑‍💻 Author
 **Denys Strohyi**  
 Student of *Sumy State University*
+
+
